@@ -33,16 +33,9 @@
     },
     "versionFirst": "4.4.1",
     "uniqCompNum": 23,
-    "versionPublish": "4.4.1",
+    "versionPublish": "4.5.2",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
-    "robotsSwitcher": "on",
-    "siteUrl": "http://procyber.tech",
-    "sitemapSwitcherAuto": "",
-    "favicon": "",
-    "noImageResize": "",
-    "sitemapSwitcher": "on"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
